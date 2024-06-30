@@ -1,0 +1,132 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="output">
+        <textarea id="outputTextarea"></textarea>
+    </div>
+
+    <div id="input">
+        <form id="cvForm" action="" method="post">
+            <label for="personal_info"> Okay, Tell me about your self</label> <br>
+            <textarea type="text" name="personal_info" id="personal_info" required autocomplete="on"> </textarea> <br><br>
+
+            <label for="contact_info"> Give me your contact info.. address, phone number, social media and the
+                rest?</label> <br>
+            <textarea type="text" name="contact_info" id="contact_info" required autocomplete="on"> </textarea> <br><br>
+
+
+            <label for="skills"> what tools do you use and what skills do you have?</label> <br>
+            <textarea type="text" name="skills" id="skills" required autocomplete="on"> </textarea> <br><br>
+
+
+            <label for="years"> So how long hae you been doing this?</label> <br>
+            <textarea type="text" name="years" id="years" required autocomplete="on"> </textarea> <br><br>
+
+
+            <label for="projects"> So tell me about any of your projects that you have done that you are proud
+                of.</label> <br>
+            <textarea type="text" name="projects" id="projects" required autocomplete="on"> </textarea> <br><br>
+
+
+            <label for="professional_experience"> Is there any professional experince you will like to share?</label>
+            <br>
+            <textarea type="text" name="professional_experience" id="professional_experience" required autocomplete="on"> </textarea> <br><br>
+
+
+            <label for="education"> Tell me about your educational background</label> <br>
+            <textarea type="text" name="education" id="education" required autocomplete="on"> </textarea> <br><br>
+
+            <input type="submit" value="Generate Cv">
+
+
+        </form>
+    </div>
+
+
+</body>
+
+
+
+
+<style>
+    body {
+        background-color: aqua;
+    }
+
+    #input {
+        background-color: rgb(233, 141, 71);
+        width: fit-content;
+        padding: 30px;
+    }
+
+    #input>form>textarea {
+        width: 700px;
+        height: 90px;
+    }
+
+    #input>form>label {
+        text-align: center;
+        font-size: 20px;
+        color: rgb(31, 29, 29);
+        font-weight: bold;
+    }
+
+    #input>form>input {
+        text-align: center;
+        font-size: 20px;
+        padding: 40px;
+        font-weight: bolder;
+        color: aliceblue;
+        margin: auto;
+        background-color: brown;
+    }
+
+    #output {
+        position: absolute;
+        right: 0px;
+        background-color: rgb(108, 224, 36);
+        width: fit-content;
+        padding: 30px;
+    }
+
+    #output>textarea {
+        width: 700px;
+        height: 1050px;
+    }
+</style>
+
+<script>
+    document.getElementById('cvForm').addEventListener('submit', function (event) {
+        event.preventDefault(); // Prevent the default form submission
+
+        const formData = new FormData(event.target);
+        const data = {};
+        formData.forEach((value, key) => {
+            data[key] = value;
+        });
+
+        fetch('http://localhost:5000/cv/generate', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(data)
+        })
+        .then(response => response.json())
+        .then(result => {
+            document.getElementById('outputTextarea').value = JSON.stringify(result, null, 2);
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            document.getElementById('outputTextarea').value = 'Error: ' + error;
+        });
+    });
+</script>
+
+</html>

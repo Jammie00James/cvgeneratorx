@@ -1,0 +1,46 @@
+Example Product design
+
+
+{
+    "assistant": "Good morning, How are you doing?",
+    "user":"Im very fine, Thank you",
+    "assistant": " Okay, tell me about your self",
+    "user":" Okay. My name Is Osakue Omoruyi and I am a product designer",
+    "assistant":"Wonderful, so tell me what tools do you use for product design",
+    "user":"Okay, i use figma mainly for designing and prototyping, i also use adobe photoshop and illustrator.",
+    "assistant":"Great. So how long hae you been doing this?",
+    "user":"well i started learning about 3 years ago, but i landed my first gig just a year ago",
+    "assistant":"Nice. So tell me about any of your projects that you have done that you are proud of.",
+    "user":"Okay, One that stand out for me is when i was able to do a make over, more like a remix for youtube interface, i made it very well mor user friendly and interactive. you can check out the design at https://desingn.com",
+    "assistant":"Amazing. okay you said you landed your first gig a year ago, tell me about that experince",
+    "user":"yeah, i worked as a contact product designer with JPMorgan Technologies from october last year to febuary this year. While on the job i was solely responsible for creating large scale enterprice designs for their mobile and web applications. i also colaborated with the developers to make it a success. Its an ecommerce organization by the way.",
+    "assistant": "Cool, Is there any other professional experince you will like to share?",
+    "user":"Absolutely! Beyond my core role as a product designer, I have had the opportunity to engage in several enriching professional experiences that have broadened my skill set and perspective.One notable experience was my involvement in a cross-functional team at a mid-sized tech startup where I played a pivotal role in the development of a new SaaS platform. This project required close collaboration with engineers, product managers, and marketing teams to ensure a seamless user experience from conception to launch. I led user research initiatives, conducted usability testing, and iterated on design prototypes based on feedback, which resulted in a 30% increase in user engagement post-launch. Additionally, I participated in a global design sprint organized by a leading design consultancy, which aimed to solve complex social issues through design thinking. My team focused on improving accessibility in urban transportation. We developed a prototype for an inclusive mobile app that provided real-time accessibility information for public transit users. Our project was recognized for its innovative approach and is now being considered for further development by a city municipality. Furthermore, I have mentored junior designers as part of a professional development program within my organization. This involved conducting regular design reviews, providing constructive feedback, and guiding them through best practices in user-centered design. Watching them grow and succeed has been incredibly rewarding and has sharpened my leadership and communication skills. These experiences have not only enhanced my design capabilities but also reinforced my passion for creating meaningful, user-focused solutions. I am excited to bring this diverse background and enthusiasm for innovation to my next role.",
+    "assistant":"Good, Tell me about your educational background",
+    "user":" I have a first class Bachelors honours in computer science from the university of lagos, nigeria. i attended from august 2019 to september 2023",
+    "assistant":" Thanks for your time, Ill now give this to the resume writer. He will get back to you with a well prepared resume",
+    "user":"Thank You"
+}
+
+Example Project Manager
+
+`{
+    "assistant": "Good morning, How are you doing?",
+    "user":"Im very fine, Thank you",
+    "assistant": " Okay, tell me about your self",
+    "user":" Okay. My name Is Philip Shaibu and I am a project manager",
+    "assistant":"Okay. Give me your contact info.. address, phone number, social media and the rest?",
+    "user":"I stay at No 15 off ekhewan road benin city, my phone number is 08101083890, my email address is jammy@gmail.com, my twitter url is https://x.com/jammy"
+    "assistant":"Wonderful, so tell me what tools do you use and what skills do you have?",
+    "user":"Okay, I use jira and github projects and gitlab too to manage and keep effective track of the project i  managing from start to finish.",
+    "assistant":"Great. So how long hae you been doing this?",
+    "user":"4 years now",
+    "assistant":"Nice. So tell me about any of your projects that you have done that you are proud of.",
+    "user":"Okay, I managed my school webapp buliding project from start to finish. It was a team of 5 including the developers and designers, I was able to launch the product in time before the deadline. It was a huge success",
+    "assistant": "Cool, is there any professional experince you will like to share?",
+    "user":"Absolutely!  I worked as a junior project manager at pintrest from january this year and i worked there for 3 months. I was incharge of managing little projects that contributed to the app. mainly various features. I also did a 1 year internship at ALX where i gained hands on experience while been mentored by great project managers",
+    "assistant":"Good, Tell me about your educational background",
+    "user":" I have a first class Bachelors honours in computer science from the university of lagos, nigeria. i attended from august 2019 to september 2023. I also attended a project management boot camp organized by ALX in 2021" ,
+    "assistant":" Thanks for your time, Ill now give this to the resume writer. He will get back to you with a well prepared resume",
+    "user":"Thank You"
+}`

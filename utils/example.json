@@ -1,0 +1,52 @@
+{
+    "NAME": "John Doe",
+    "ROLE": "Backend Web Developer",
+    "about": "As a seasoned Backend Developer with over 7 years of experience, I am passionate about creating robust, scalable, and efficient backend systems that drive seamless user experiences. Proficient in Python, Node.js, and Ruby on Rails, I have a proven track record of designing and implementing complex APIs, optimizing database performance, and integrating cloud services such as AWS and Google Cloud. My experience spans across various industries, from tech startups to large enterprises, where I have led backend teams, contributed to open-source projects, and consistently delivered high-quality code. I am eager to bring my expertise, dedication, and enthusiasm for innovative solutions to a forward-thinking company that values excellence and growth.",
+    "CONTACT_INFO": {
+        "address": "1 Oral Creasent of Stadium Road Benin City",
+        "phone": "234813848740",
+        "email": "omoeiyekewenjames@gmail.com",
+        "githubUrl": "https://github/jammie00james",
+        "twitter": "https://x.com/jammie00james"
+    },
+    "SKILLS": {
+        "languages": [
+            "HTML",
+            "Javascript",
+            "Python",
+            "Typescript"
+        ],
+        "frameworks": [
+            "express.js",
+            "nest.js",
+            "django"
+        ],
+        "databases": [
+            "mysql",
+            "postgres",
+            "mongodb"
+        ]
+    },
+    "EXPERIENCE": [
+        {
+            "company_name": "J Tech Institute",
+            "role": "Backend Web Developer",
+            "duration": "MAY, 2020 - DECEMBER 2020",
+            "key_achievments": "1)Collaborated with the Department Lead to develop the companyss first mobile application backend using Nestjs and Typescript. 2) Led the development and recent launch of company's subscription platform, contributing to its growth and user engagement. Built APIs with Laravel to integrate the digital library, subscription platform, and other applications into a cohesive ecosystem."
+        },
+        {
+            "company_name": "J NotTech Organization",
+            "role": "Lead Backend Web Developer",
+            "duration": "JANUARY, 2020 - APRIL 2020",
+            "key_achievments": "1)Collaborated with the Department Lead to develop the companyss first mobile application backend using Nestjs and Typescript. 2) Led the development and recent launch of company's subscription platform, contributing to its growth and user engagement. Built APIs with Laravel to integrate the digital library, subscription platform, and other applications into a cohesive ecosystem."
+        }
+    ],
+    "EDUCATION": [
+        {
+            "course": "B.sc Taxation",
+            "school": "University of Benin",
+            "duration": "2019-2023",
+            "location": "Benin, Nigeria"
+        }
+    ]
+}

@@ -1,0 +1,332 @@
+{
+    "NAME": "Osakue Omoruyi",
+    "ROLE": "Product Designer",
+    "about": "A highly motivated and results-driven Product Designer with a passion for crafting intuitive and user-centered digital experiences. Possessing a strong foundation in design principles and a keen eye for detail, I excel at translating user needs into engaging and visually appealing designs. My experience spans across various domains, including e-commerce, SaaS, and social impact projects, allowing me to bring a diverse perspective to each endeavor. I am a collaborative team player with a commitment to delivering high-quality designs that meet business objectives and enhance user satisfaction.",
+    "CONTACT_INFO": {
+        "address": null,
+        "phone": null,
+        "email": null,
+        "githubUrl": null,
+        "twitter": null
+    },
+    "SKILLS": {
+        "languages": [],
+        "frameworks": [],
+        "databases": []
+    },
+    "EXPERIENCE": [
+        {
+            "company_name": "JPMorgan Technologies",
+            "role": "Contract Product Designer",
+            "duration": "October 2022 - February 2023",
+            "key_achievments": "Solely responsible for creating large-scale enterprise designs for mobile and web applications, focusing on enhancing user experience and streamlining interactions. Collaborated closely with developers to ensure seamless integration and successful implementation. Contributed to the development of an e-commerce platform, contributing to its user engagement and growth."
+        },
+        {
+            "company_name": "Mid-sized Tech Startup",
+            "role": "Product Designer",
+            "duration": null,
+            "key_achievments": "Played a pivotal role in the development of a new SaaS platform, collaborating with engineers, product managers, and marketing teams. Led user research initiatives, conducted usability testing, and iterated on design prototypes based on feedback, resulting in a 30% increase in user engagement post-launch."
+        },
+        {
+            "company_name": "Leading Design Consultancy",
+            "role": "Product Designer",
+            "duration": null,
+            "key_achievments": "Participated in a global design sprint focused on improving accessibility in urban transportation. Developed a prototype for an inclusive mobile app providing real-time accessibility information for public transit users. The project received recognition for its innovative approach and is being considered for further development by a city municipality."
+        }
+    ],
+    "EDUCATION": [
+        {
+            "course": "B.Sc. Computer Science (First Class Honours)",
+            "school": "University of Lagos",
+            "duration": "August 2019 - September 2023",
+            "location": "Lagos, Nigeria"
+        }
+    ]
+}
+
+
+{
+    "NAME": "Osakue Omoruyi",
+    "ROLE": "Product Designer",
+    "about": "A highly motivated and results-driven Product Designer with a passion for crafting intuitive and user-centered digital experiences. Possessing a strong foundation in design principles and a keen eye for detail, I excel at translating user needs into engaging and visually appealing designs. My experience spans across various domains, including e-commerce, SaaS, and social impact projects, allowing me to bring a diverse perspective to each endeavor. I am a collaborative team player with a commitment to delivering high-quality designs that meet business objectives and enhance user satisfaction.",
+    "CONTACT_INFO": {
+        "address": null,
+        "phone": null,
+        "email": null,
+        "githubUrl": null,
+        "twitter": null
+    },
+    "SKILLS": {
+        "languages": [],
+        "frameworks": [],
+        "databases": []
+    },
+    "EXPERIENCE": [
+        {
+            "company_name": "JPMorgan Technologies",
+            "role": "Contract Product Designer",
+            "duration": "October 2022 - February 2023",
+            "key_achievments": "• Solely responsible for creating large-scale enterprise designs for mobile and web applications, focusing on enhancing user experience and streamlining interactions.\n• Collaborated closely with developers to ensure seamless integration and successful implementation.\n• Contributed to the development of an e-commerce platform, contributing to its user engagement and growth."
+        },
+        {
+            "company_name": "Mid-sized Tech Startup",
+            "role": "Product Designer",
+            "duration": null,
+            "key_achievments": "• Played a pivotal role in the development of a new SaaS platform, collaborating with engineers, product managers, and marketing teams.\n• Led user research initiatives, conducted usability testing, and iterated on design prototypes based on feedback, resulting in a 30% increase in user engagement post-launch."
+        },
+        {
+            "company_name": "Leading Design Consultancy",
+            "role": "Product Designer",
+            "duration": null,
+            "key_achievments": "• Participated in a global design sprint focused on improving accessibility in urban transportation.\n• Developed a prototype for an inclusive mobile app providing real-time accessibility information for public transit users.\n• The project received recognition for its innovative approach and is being considered for further development by a city municipality."
+        },
+        {
+            "company_name": "Previous Organization",
+            "role": "Mentor",
+            "duration": null,
+            "key_achievments": "• Mentored junior designers as part of a professional development program, conducting regular design reviews, providing constructive feedback, and guiding them through best practices in user-centered design.\n• Developed strong leadership and communication skills through this experience, fostering the growth and success of mentees."
+        }
+    ],
+    "EDUCATION": [
+        {
+            "course": "B.Sc. Computer Science (First Class Honours)",
+            "school": "University of Lagos",
+            "duration": "August 2019 - September 2023",
+            "location": "Lagos, Nigeria"
+        }
+    ]
+}
+
+
+{
+    "NAME": "Osakue Omoruyi",
+    "ROLE": "Product Designer",
+    "about": "As a passionate and results-driven Product Designer with a year of professional experience, I thrive on creating user-centric designs that enhance user engagement and drive business outcomes.  My expertise in Figma, Adobe Photoshop, and Illustrator enables me to translate complex ideas into intuitive and visually appealing interfaces.  I am a collaborative team player with a proven ability to work effectively with engineers, product managers, and marketing teams to deliver exceptional digital experiences. My commitment to continuous learning and a keen eye for detail ensure that every design I produce is both aesthetically pleasing and functionally robust.  I am eager to contribute my skills and enthusiasm to a dynamic and innovative organization.",
+    "CONTACT_INFO": {
+        "address": null,
+        "phone": null,
+        "email": null,
+        "githubUrl": null,
+        "twitter": null
+    },
+    "SKILLS": {
+        "languages": [],
+        "frameworks": [],
+        "databases": []
+    },
+    "EXPERIENCE": [
+        {
+            "company_name": "JPMorgan Technologies",
+            "role": "Contract Product Designer",
+            "duration": "October 2022 - February 2023",
+            "key_achievments": "• Solely responsible for creating large-scale enterprise designs for mobile and web applications, enhancing user experience and driving business goals.\n• Collaborated closely with developers to ensure seamless integration and successful implementation of design solutions.\n• Contributed to the development of a user-friendly and engaging e-commerce platform, resulting in increased customer satisfaction and conversion rates."
+        },
+        {
+            "company_name": "Mid-sized Tech Startup",
+            "role": "Product Designer",
+            "duration": null,
+            "key_achievments": "• Played a key role in the development of a new SaaS platform, collaborating with engineers, product managers, and marketing teams to ensure a seamless user experience from conception to launch.\n• Led user research initiatives, conducted usability testing, and iterated on design prototypes based on feedback, resulting in a 30% increase in user engagement post-launch."
+        },
+        {
+            "company_name": "Leading Design Consultancy",
+            "role": "Participant in Global Design Sprint",
+            "duration": null,
+            "key_achievments": "•  Participated in a global design sprint focused on improving accessibility in urban transportation.\n• Developed a prototype for an inclusive mobile app that provided real-time accessibility information for public transit users.\n•  The project was recognized for its innovative approach and is now being considered for further development by a city municipality."
+        },
+        {
+            "company_name": null,
+            "role": "Mentor, Junior Designers",
+            "duration": null,
+            "key_achievments": "• Provided guidance and mentorship to junior designers, conducting regular design reviews, offering constructive feedback, and fostering best practices in user-centered design.\n•  Developed strong leadership and communication skills through mentoring and coaching, contributing to the professional growth of junior designers."
+        }
+    ],
+    "EDUCATION": [
+        {
+            "course": "Bachelors of Science in Computer Science (First Class Honors)",
+            "school": "University of Lagos",
+            "duration": "August 2019 - September 2023",
+            "location": "Lagos, Nigeria"
+        }
+    ]
+}
+
+
+
+{
+    "NAME": "Osakue Omoruyi",
+    "ROLE": "Product Designer",
+    "about": "As a passionate and results-driven Product Designer with a year of professional experience, I thrive on creating user-centric designs that enhance user engagement and drive business outcomes.  My expertise in Figma, Adobe Photoshop, and Illustrator enables me to translate complex ideas into intuitive and visually appealing interfaces.  I am a collaborative team player with a proven ability to work effectively with engineers, product managers, and marketing teams to deliver exceptional digital experiences. My commitment to continuous learning and a keen eye for detail ensure that every design I produce is both aesthetically pleasing and functionally robust.  I am eager to contribute my skills and enthusiasm to a dynamic and innovative organization.",
+    "CONTACT_INFO": {
+        "address": null,
+        "phone": null,
+        "email": null,
+        "githubUrl": null,
+        "twitter": null
+    },
+    "SKILLS": {
+        "design_tools": [
+            "Figma",
+            "Adobe Photoshop",
+            "Adobe Illustrator"
+        ],
+        "other_skills": [
+            "User Research",
+            "Usability Testing",
+            "Design Prototyping",
+            "Design Thinking",
+            "Accessibility Design",
+            "User-Centered Design",
+            "Leadership",
+            "Communication"
+        ]
+    },
+    "EXPERIENCE": [
+        {
+            "company_name": "JPMorgan Technologies",
+            "role": "Contract Product Designer",
+            "duration": "October 2022 - February 2023",
+            "key_achievments": "• Solely responsible for creating large-scale enterprise designs for mobile and web applications, enhancing user experience and driving business goals.\n• Collaborated closely with developers to ensure seamless integration and successful implementation of design solutions.\n• Contributed to the development of a user-friendly and engaging e-commerce platform, resulting in increased customer satisfaction and conversion rates."
+        },
+        {
+            "company_name": "Mid-sized Tech Startup",
+            "role": "Product Designer",
+            "duration": null,
+            "key_achievments": "• Played a key role in the development of a new SaaS platform, collaborating with engineers, product managers, and marketing teams to ensure a seamless user experience from conception to launch.\n• Led user research initiatives, conducted usability testing, and iterated on design prototypes based on feedback, resulting in a 30% increase in user engagement post-launch."
+        },
+        {
+            "company_name": "Leading Design Consultancy",
+            "role": "Participant in Global Design Sprint",
+            "duration": null,
+            "key_achievments": "•  Participated in a global design sprint focused on improving accessibility in urban transportation.\n• Developed a prototype for an inclusive mobile app that provided real-time accessibility information for public transit users.\n•  The project was recognized for its innovative approach and is now being considered for further development by a city municipality."
+        },
+        {
+            "company_name": null,
+            "role": "Mentor, Junior Designers",
+            "duration": null,
+            "key_achievments": "• Provided guidance and mentorship to junior designers, conducting regular design reviews, offering constructive feedback, and fostering best practices in user-centered design.\n•  Developed strong leadership and communication skills through mentoring and coaching, contributing to the professional growth of junior designers."
+        }
+    ],
+    "EDUCATION": [
+        {
+            "course": "Bachelors of Science in Computer Science (First Class Honors)",
+            "school": "University of Lagos",
+            "duration": "August 2019 - September 2023",
+            "location": "Lagos, Nigeria"
+        }
+    ]
+}
+
+
+
+
+
+{
+    "NAME": "Osakue Omoruyi",
+    "ROLE": "Product Designer",
+    "about": "As a passionate and results-driven Product Designer with a year of professional experience, I thrive on creating user-centric designs that enhance user engagement and drive business outcomes.  My expertise in Figma, Adobe Photoshop, and Illustrator enables me to translate complex ideas into intuitive and visually appealing interfaces.  I am a collaborative team player with a proven ability to work effectively with engineers, product managers, and marketing teams to deliver exceptional digital experiences. My commitment to continuous learning and a keen eye for detail ensure that every design I produce is both aesthetically pleasing and functionally robust.  I am eager to contribute my skills and enthusiasm to a dynamic and innovative organization.",
+    "CONTACT_INFO": {
+        "address": null,
+        "phone": null,
+        "email": null,
+        "githubUrl": null,
+        "twitter": null
+    },
+    "SKILLS": {
+        "design_tools": [
+            "Figma",
+            "Adobe Photoshop",
+            "Adobe Illustrator"
+        ],
+        "other_skills": [
+            "User Research",
+            "Usability Testing",
+            "Design Prototyping",
+            "Design Thinking",
+            "Accessibility Design",
+            "User-Centered Design",
+            "Leadership",
+            "Communication"
+        ]
+    },
+    "EXPERIENCE": [
+        {
+            "company_name": "JPMorgan Technologies",
+            "role": "Contract Product Designer",
+            "duration": "October 2022 - February 2023",
+            "key_achievments": "• Solely responsible for creating large-scale enterprise designs for mobile and web applications, enhancing user experience and driving business goals.\n• Collaborated closely with developers to ensure seamless integration and successful implementation of design solutions.\n• Contributed to the development of a user-friendly and engaging e-commerce platform, resulting in increased customer satisfaction and conversion rates."
+        },
+        {
+            "company_name": "Mid-sized Tech Startup",
+            "role": "Product Designer",
+            "duration": null,
+            "key_achievments": "• Played a key role in the development of a new SaaS platform, collaborating with engineers, product managers, and marketing teams to ensure a seamless user experience from conception to launch.\n• Led user research initiatives, conducted usability testing, and iterated on design prototypes based on feedback, resulting in a 30% increase in user engagement post-launch."
+        },
+        {
+            "company_name": "Leading Design Consultancy",
+            "role": "Participant in Global Design Sprint",
+            "duration": null,
+            "key_achievments": "•  Participated in a global design sprint focused on improving accessibility in urban transportation.\n• Developed a prototype for an inclusive mobile app that provided real-time accessibility information for public transit users.\n•  The project was recognized for its innovative approach and is now being considered for further development by a city municipality."
+        },
+        {
+            "company_name": null,
+            "role": "Mentor, Junior Designers",
+            "duration": null,
+            "key_achievments": "• Provided guidance and mentorship to junior designers, conducting regular design reviews, offering constructive feedback, and fostering best practices in user-centered design.\n•  Developed strong leadership and communication skills through mentoring and coaching, contributing to the professional growth of junior designers."
+        }
+    ],
+    "EDUCATION": [
+        {
+            "course": "Bachelors of Science in Computer Science (First Class Honors)",
+            "school": "University of Lagos",
+            "duration": "August 2019 - September 2023",
+            "location": "Lagos, Nigeria"
+        }
+    ]
+}
+
+
+
+{
+    "NAME": "Osakue Omoruyi",
+    "ROLE": "Product Designer",
+    "about": "A highly creative and motivated Product Designer with one year of experience and a strong passion for crafting user-centered and visually appealing digital experiences. Proficient in using industry-standard design tools such as Figma, Adobe Photoshop, and Illustrator to create intuitive and engaging interfaces. Proven ability to collaborate effectively with cross-functional teams, including developers and product managers, to bring innovative ideas to life. Eager to contribute to challenging projects that demand a deep understanding of user needs and a commitment to delivering exceptional design solutions.",
+    "CONTACT_INFO": {
+        "address": "",
+        "phone": "",
+        "email": "",
+        "githubUrl": "",
+        "twitter": ""
+    },
+    "SKILLS": {
+        "languages": [],
+        "frameworks": [
+            "Figma",
+            "Adobe Photoshop",
+            "Adobe Illustrator"
+        ],
+        "databases": []
+    },
+    "EXPERIENCE": [
+        {
+            "company_name": "JPMorgan Technologies",
+            "role": "Contract Product Designer",
+            "duration": "OCTOBER 2022 - FEBRUARY 2023",
+            "key_achievments": "Successfully designed large-scale enterprise designs for mobile and web applications within a fast-paced e-commerce environment. Collaborated effectively with developers to implement designs, ensuring a seamless transition from concept to production."
+        }
+    ],
+    "PROJECTS": [
+        {
+            "project_name": "Youtube Interface Redesign",
+            "description": "Revamped the YouTube interface to enhance user-friendliness and interactivity, resulting in a more intuitive and engaging platform. This project showcased my ability to analyze existing designs and identify areas for improvement, ultimately creating a more user-centered experience.",
+            "url": "https://desingn.com"
+        }
+    ],
+    "EDUCATION": [
+        {
+            "course": "B.sc Computer Science (First Class Honours)",
+            "school": "University of Lagos, Nigeria",
+            "duration": "AUGUST 2019 - SEPTEMBER 2023",
+            "location": "Lagos, Nigeria"
+        }
+    ]
+}
