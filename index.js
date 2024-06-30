@@ -2,7 +2,7 @@ const express = require('express')
 const bodyParser = require('body-parser');
 const dotenv = require('dotenv')
 dotenv.config()
-  
+
 
 
 async function commence() {
@@ -10,7 +10,7 @@ async function commence() {
     const app = express()
 
     app.use((req, res, next) => {
-      const allowedOrigins = ['http://localhost:5174','http://localhost:5173', 'https://jammie00james.github.io', 'http://127.0.0.1:5500'];
+      const allowedOrigins = ['http://localhost:5174', 'http://localhost:5173', 'https://jammie00james.github.io', 'http://127.0.0.1:5500'];
       const origin = req.headers.origin;
 
       if (allowedOrigins.includes(origin)) {

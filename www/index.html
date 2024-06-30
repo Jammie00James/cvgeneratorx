@@ -120,7 +120,7 @@
         })
         .then(response => response.json())
         .then(result => {
-            document.getElementById('outputTextarea').value = JSON.stringify(result, null, 2);
+            document.getElementById('outputTextarea').value = JSON.stringify(result.result, null, 2);
         })
         .catch(error => {
             console.error('Error:', error);
